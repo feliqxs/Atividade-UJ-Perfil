@@ -1,0 +1,27 @@
+header {
+    background: linear-gradient(to top, #474747, #0c0c0c);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    background: linear-gradient(to top, #474747, #0c0c0c);
+    color: white;
+    text-align: center;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(to top, #b1b1b1, #eeeeee);
+}
